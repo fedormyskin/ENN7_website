@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2023 European Narratology Network Conference on ENN7 Conference</title>
+    <link>enn7.netlify.com/</link>
+    <description>Recent content in 2023 European Narratology Network Conference on ENN7 Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="enn7.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for papers</title>
+      <link>enn7.netlify.com/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>enn7.netlify.com/cfp/</guid>
+      <description>The European Narratology Network invites submissions to the 2023 conference about narrative processes, devices, and experiences in literature, film, theater, digital media, etc. across all European languages and cultures.
+This year’s conference is co-located with IGEL 2023, the conference of the International Society for the Empirical Study of Literature, and the common theme is Rhythm, Speed, Path: Spatiotemporal Experiences in Narrative, Poetry, and Drama. Submissions related to this topic will be given priority but submissions about other topics are also welcome.</description>
+    </item>
+    
+  </channel>
+</rss>
