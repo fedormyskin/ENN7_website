@@ -8,3 +8,6 @@ menu:
     - identifier: cfp
       name: Call for Papers
       url: /cfp/
+    - identifier: submission
+      name: Submission
+      url: "https://docs.google.com/forms/d/e/1FAIpQLScrGrRb3Etl7h6odT-fi0V1ZEzGkgxxDaPF1b0k3p7MJVEr0w/viewform?usp=sharing" 
