@@ -1,0 +1,10 @@
+theme: "hugo-PaperMod"
+baseURL: enn7.netlify.com/
+languageCode: en-us
+title: ENN7 Conference
+
+menu:
+  main:
+    - identifier: cfp
+      name: Call for Papers
+      url: /cfp/
