@@ -23,7 +23,7 @@ We encourage submissions related to (but not limited to):
 
 ## Proposal submission procedure
 
-Send submissions via the registration form, including the following information:
+Send submissions via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLScrGrRb3Etl7h6odT-fi0V1ZEzGkgxxDaPF1b0k3p7MJVEr0w/viewform?usp=sharing), including the following information:
 
 - Name of first author (First, Last and Title) and affiliation
 - Email of corresponding author 
