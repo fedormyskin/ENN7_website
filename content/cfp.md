@@ -30,7 +30,7 @@ Send submissions via the [submission form](https://docs.google.com/forms/d/e/1FA
 - List co-authors (names and affiliations) 
 - Title of presentation
 - Three to five relevant keywords 
-- Upload of anonymized abstract (500 words max; file format: .doc, .docx, .txt) 
+- Upload of anonymized abstract (500 words max) 
 
 Please indicate the format (paper or panel) by ticking the appropriate box: 
 
@@ -47,7 +47,7 @@ In conjunction with the 7th International Conference of the European Narratology
 
 Applicants for the seminar must be doctoral students during the 2022–2023 academic year and doing research on any topic connected with narratology. At the end of the course, the participants will receive a diploma and 1 ECTS.
 
-Prospective participants are asked to send a 500-word description of their doctoral research together with their résumés and name of institution via the registration form at enn7conference[at]gmail.com 
+Prospective participants are asked to send a 500-word description of their doctoral research together with their résumés and name of institution via the registration form and sending a notification to enn7conference[at]gmail.com 
 
 **The deadline for submissions is 24 February 2023.**
 
