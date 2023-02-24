@@ -5,7 +5,7 @@ title: "Call for papers"
 
 The European Narratology Network invites submissions to the 2023 conference about narrative processes, devices, and experiences in literature, film, theater, digital media, etc. across all European languages and cultures.
 
-This year’s conference is co-located with IGEL 2023, the conference of the International Society for the Empirical Study of Literature, and the common theme is *Rhythm, Speed, Path: Spatiotemporal Experiences in Narrative, Poetry, and Drama*. Submissions related to this topic will be given priority but submissions about other topics are also welcome. The deadline for submission is **February 24th, 2023**.  
+This year’s conference is co-located with IGEL 2023, the conference of the International Society for the Empirical Study of Literature, and the common theme is *Rhythm, Speed, Path: Spatiotemporal Experiences in Narrative, Poetry, and Drama*. Submissions related to this topic will be given priority but submissions about other topics are also welcome. The deadline for submission is **~~24 February 2023~~ 10 March 2023**.  
 
 The aim of the conference is to offer a space for a discussion about the role and enactment of spatiotemporal experiences in narrative, lyrical, and performative works. The focus should be on narrative theory in relation to literary studies, theory of versification, performance studies and other relevant domains.
 
@@ -37,7 +37,7 @@ Please indicate the format (paper or panel) by ticking the appropriate box:
 - Paper 
 - Panel (3-4 presentations)
 
-**The deadline for submissions is 24 February 2023.**
+**The deadline for submissions is ~~24 February 2023~~ 10 March 2023.**
 
 # Preconference Doctoral Seminar
 
@@ -49,13 +49,13 @@ Applicants for the seminar must be doctoral students during the 2022–2023 acad
 
 Prospective participants are asked to send a 500-word description of their doctoral research together with their résumés and name of institution via the registration form and sending a notification to enn7conference[at]gmail.com 
 
-**The deadline for submissions is 24 February 2023.**
+**The deadline for submissions is ~~24 February 2023~~ 10 March 2023.**
 
 The seminar will consist of an introductory lecture and of working sessions to which the participants will be distributed according to their particular topics. The seminars will be led by supervisors who are experts on particular topics. Each student will present their topic (10–15 min), after which the supervisor’s comment on the topics, and a discussion, will follow.  
 
 # Important dates
 
-Panel proposals and papers submission deadline: 24 February 2023
+Panel proposals and papers submission deadline: ~~24 February 2023~~ 10 March 2023
 
 Acceptances will be sent out on: 15 April 2023
 
