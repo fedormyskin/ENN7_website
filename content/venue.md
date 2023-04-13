@@ -1,5 +1,6 @@
 ---
 title: "Conference venue"
+ShowToc: true
 ---
 
 
@@ -7,12 +8,14 @@ Monopoli is a little town near Bari in Puglia, a region in Southern Italy. Its c
 
 The conference will be held in Monopoli’s **Diocesan Museum**, located in the town’s historic center, next to the Basilica of the Madonna della Madia. 
 
-Plenary sessions will take place in the great hall on the ground floor, whereas parallel sessions will be held in other rooms upstairs, between the first and the second floor. Reception stand and coffee breaks will be in the building across the square.
+Plenary sessions will take place in the great hall on the ground floor, whereas parallel sessions will be held in other rooms upstairs, between the first and the second floor. Reception stand and coffee breaks will be in the [building](https://goo.gl/maps/r4gUCpzK4xJgDfYn8) across the square, in front of the Basilica.
 
 ![Map of venue](/venue_map.png)
 
-Address: Via Cattedrale, 26, Monopoli (BA), Italy	
+Address: [Via Cattedrale, 26, Monopoli (BA), Italy](https://goo.gl/maps/nUNu5fKmZ74cLMys8)
+
 Tel.:  +39 (0)80 748002	
+
 Website: https://museodiocesanomonopoli.com/en/
 
 # Disclaimer about the venue
@@ -54,20 +57,20 @@ https://brindisi.airports.aeroportidipuglia.it/en/da-e-per-gli-aeroporti/type/bu
 
 2. From Brindisi Railway Station you can get the train to Monopoli Railway Station (line Lecce-Bari Centrale). 
 
-For more information: trenitalia.com/en.html
+For more information: https://trenitalia.com/en.html
 
 or
 
 [Taxi](https://brindisi.airports.aeroportidipuglia.it/en/da-e-per-gli-aeroporti/type/taxi/) and [Rental car](https://brindisi.airports.aeroportidipuglia.it/en/da-e-per-gli-aeroporti/type/noleggio-auto/) services are available to get to Brindisi Railway Station or to Monopoli directly: 
 
 ## By train
-See the recommendations above.
+High-speed train arrive until Bari Centrale Railway Station. See the recommendations above for the last part of your trip.
 
 # Local transport and various information on Monopoli	
 
  We recommend seeking accommodation not too far from the conference venue, between Monopoli Station and the historical centre. From Monopoli Railway Station to the Museo Diocesano is a fifteen-minute walk.
 
-Please note that the Museo Diocesano is located in a ZTL (restricted traffic zone: only authorized residents can access by car). If you are coming by car, parkings are available in Piazza Alessandro Manzoni a few steps away from the conference venue.
+Please note that the Museo Diocesano is located in a ZTL (restricted traffic zone: only authorized residents can access by car). If you are coming by car, parkings are available in [Piazza Alessandro Manzoni](https://goo.gl/maps/KqxzFZxfhsjVW8ax7) a few steps away from the conference venue.
 
 ![Map of Monopoli center](/railway_center.png)
 
@@ -80,12 +83,17 @@ A public bicycle rental service is provided by the [Monopoli tourist Info Point]
 For further information about the bicycle rental service, or for special questions in general, you can contact the Monopoli tourist office directly. 
 
 INFO-POINT PIAZZA GARIBALDI	
-Address: Piazza Garibaldi, 24	
+
+Address: [Piazza Garibaldi, 24](https://goo.gl/maps/5vkLXVtZhcSzWVoZ7)	
+
 Telephone: +39 (0)80 414 0264	
+
 Email: info.monopoli@viaggiareinpuglia.it
 
 INFO-POINT TRAIN STATION	
-Address: Largo Stazione	
+
+Address: [Largo Stazione](https://goo.gl/maps/NegrvsZuZxHSQnJt5)	
+
 Email:  info.monopoli@viaggiareinpuglia.it
 
 Some local shops also rent bikes: https://noleggiobicimonopoli.com/?lang=en
