@@ -2,7 +2,10 @@
 title: "2023 European Narratology Network Conference"
 ---
 
+</br>
+</br>
 
+![ENNlogo](/enn_logo.gif)
 
 The 7th conference of the European Narratology Network will be held in Monopoli, Italy, on 26-28 September 2023.
 
