@@ -11,10 +11,9 @@ menu:
     - identifier: cfp
       name: Call for Papers
       url: /cfp/
-#    - identifier: program
-#      name: Program
-#
-#      url: /program/
-#    - identifier: registration
-#      name: Registration
-#      url: /registration/
+    - identifier: program
+      name: Program
+      url: /program/
+    - identifier: registration
+      name: Registration
+      url: /registration/

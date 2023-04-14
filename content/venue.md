@@ -101,4 +101,4 @@ Some local shops also rent bikes: https://noleggiobicimonopoli.com/?lang=en
 
 We recommend seeking accommodation not too far from the conference venue, between Monopoli Station and the historical centre. From Monopoli Railway Station to the Museo Diocesano is a fifteen-minute walk.
 
-In Monopoli's historical center there are no hotels, only B&Bs and holiday homes, very often hosted in historical buildings. We suggest you to book this types of accomodation to make your stay even more in tune with the Southern Italian atmosphere.
+In Monopoli's historical center there are no hotels, only B&Bs and holiday homes, very often hosted in historical buildings. We suggest you to book this types of accomodation to make your stay even more in tune with the Southern Italian atmosphere. **Please book your accomodation and travel as soon as possible because Monopoli is a popular touristic destination even at the end of September.**

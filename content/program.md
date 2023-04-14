@@ -8,6 +8,8 @@ title: "Conference program"
 
 The 7th conference of the European Narratology Network is co-located with IGEL 2023, the conference of the International Society for the Empirical Study of Literature ([IGEL](https://igelsociety.org)), and the final event of [ELIT](https://www.elitnetwork.eu), the Empirical Study of Literature Training Network.
 
+We encourage participants to also consider attending the ELIT and IGEL events. Here is an overview of the whole week. A more detailed program will be published later on.
+
 | Day          | Morning                     |  Afternoon             | Evening          |
 | ------------ | --------------------------- | ---------------------- | ----------------- |
 | **Tue 26**   |  ELIT + ENN doctoral seminar |  ELIT + ENN conference | welcome reception |
@@ -16,4 +18,5 @@ The 7th conference of the European Narratology Network is co-located with IGEL 2
 | **Fri 29**   |  IGEL                        |  IGEL                 |                   |
 | **Sat 30**   |  IGEL                        |                       |                   |
 
-A more detailed program will be published later on.
+The cost of the conference dinner will be € 50, to be paid during registration.
+Vegetarian and vegan options will be available in all occasions.
