@@ -17,3 +17,6 @@ menu:
     - identifier: registration
       name: Registration
       url: /registration/
+    - identifier: venue
+      name: Venue
+      url: /venue/
