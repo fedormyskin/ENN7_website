@@ -18,9 +18,9 @@ Tel.:  +39 (0)80 748002
 
 Website: https://museodiocesanomonopoli.com/en/
 
-# Disclaimer about the venue
+# About the venue
 
-Monopoli’s Diocesan Museum was established in 2002, in the venues of the ancient Episcopal Seminary, founded originally in 1668. The Museum architecture and its collection testify Monopoli’s transculturality: the town has always been a meeting-port between the West and the East, having been under the influence of the Byzantines, the Angevins, the Aragones and the Venetians. The rooms of the Museum display paintings, icons, manuscripts, and various manufactures of great artistic value. The atmosphere is particularly linked to the religious and cultural history of the area, which has been a centre of pilgrimage for several centuries. The conference is obviously a secular event, but we though worthwile mentioning that religious  elements will be visible at the venue.
+Monopoli’s Diocesan Museum was established in 2002, in the venues of the ancient Episcopal Seminary, founded originally in 1668. The Museum architecture and its collection testify Monopoli’s transculturality: the town has always been a meeting-port between the West and the East, having been under the influence of the Byzantines, the Angevins, the Aragones and the Venetians. The rooms of the Museum display paintings, icons, manuscripts, and various manufactures of great artistic value. The atmosphere is particularly linked to the religious and cultural history of the area, which has been a centre of pilgrimage for several centuries. The conference is obviously a secular event but we thought worthwile mentioning that religious  elements will be visible at the venue.
 
 # How to reach Monopoli
 
@@ -68,8 +68,6 @@ High-speed train arrive until Bari Centrale Railway Station. See the recommendat
 
 # Local transport and various information on Monopoli	
 
- We recommend seeking accommodation not too far from the conference venue, between Monopoli Station and the historical centre. From Monopoli Railway Station to the Museo Diocesano is a fifteen-minute walk.
-
 Please note that the Museo Diocesano is located in a ZTL (restricted traffic zone: only authorized residents can access by car). If you are coming by car, parkings are available in [Piazza Alessandro Manzoni](https://goo.gl/maps/KqxzFZxfhsjVW8ax7) a few steps away from the conference venue.
 
 ![Map of Monopoli center](/railway_center.png)
@@ -97,3 +95,10 @@ Address: [Largo Stazione](https://goo.gl/maps/NegrvsZuZxHSQnJt5)
 Email:  info.monopoli@viaggiareinpuglia.it
 
 Some local shops also rent bikes: https://noleggiobicimonopoli.com/?lang=en
+
+
+# Accomodation
+
+We recommend seeking accommodation not too far from the conference venue, between Monopoli Station and the historical centre. From Monopoli Railway Station to the Museo Diocesano is a fifteen-minute walk.
+
+In Monopoli's historical center there are no hotels, only B&Bs and holiday homes, very often hosted in historical buildings. We suggest you to book this types of accomodation to make your stay even more in tune with the Southern Italian atmosphere.
