@@ -13,9 +13,9 @@ By clicking on the "Pay now" button and completing the payment you are automatic
 
 #### Regular
 
-- ENN conference only // EUR 120 <mark>[Pay now](https://buy.stripe.com/8wM6qv0I575W1c45kZ)</mark>
+- ENN conference only // EUR 120 [<mark>Pay now</mark>](https://buy.stripe.com/8wM6qv0I575W1c45kZ)
 
-- ENN+IGEL conferences // EUR 200 <mark>[Pay now](https://buy.stripe.com/8wM6qv0I575W1c45kZ)</mark>
+- ENN+IGEL conferences // EUR 200 [`Pay now`](https://buy.stripe.com/8wM6qv0I575W1c45kZ)
 
 #### Discounted
 
