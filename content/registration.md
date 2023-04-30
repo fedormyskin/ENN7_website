@@ -3,7 +3,9 @@ title: "Registration"
 ShowToc: true
 ---
 
-**Registration will open on 1st May.** **Early bird** rates are available until **15th June**.
+~~Registration will open on 1st May.~~ Registration is now open.
+
+ **Early bird** rates are available until **15th June**.
 
 | Type of fee              | Until 15th June    |  After 15th June  | 
 | -------------------------| ------------------:| -----------------:| 
