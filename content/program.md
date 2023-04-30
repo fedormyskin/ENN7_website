@@ -20,3 +20,5 @@ We encourage participants to also consider attending the ELIT and IGEL events. H
 
 The cost of the conference dinner will be € 50, to be paid during registration.
 Vegetarian and vegan options will be available in all occasions.
+
+**Please note that online attendance is not possible.**

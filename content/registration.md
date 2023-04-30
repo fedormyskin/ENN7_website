@@ -3,6 +3,8 @@ title: "Registration"
 ShowToc: true
 ---
 
+**Please note that online attendance is not possible.**
+
 ~~Registration will open on 1st May.~~ Registration is now open.
 
  **Early bird** rates are available until **15th June**.
