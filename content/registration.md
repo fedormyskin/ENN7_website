@@ -3,7 +3,7 @@ title: "Registration"
 ShowToc: true
 ---
 
-**Please note that online attendance is not possible.**
+**Please note that ENN7 is not a hybrid conference, therefore online attendance is not possible.**
 
 ~~Registration will open on 1st May.~~ Registration is now open.
 
