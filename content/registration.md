@@ -54,4 +54,4 @@ Please note that the payments are managed by IGEL, so the invoice is issued by I
 
 - ENN conference + dinner // EUR 120 [`Pay now`](https://buy.stripe.com/5kAdSX0I51LC5sk8xh)
 
-- ENN+IGEL conferences + dinner // EUR 200 [`Pay now`](https://buy.stripe.com/aEUaGLgH30HycUM5l4)
+- ENN+IGEL conferences + dinner // EUR 150 [`Pay now`](https://buy.stripe.com/8wM3ejaiFcqg6wocNa)
